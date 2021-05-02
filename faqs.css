@@ -1,0 +1,26 @@
+.align
+{
+    
+    padding-left: 50px;
+    padding-right: 30px;
+    font-family: cursive;
+    
+    ;
+}
+.color{
+     font-family: 'Gilroy',sans-serif;
+    color:white;
+}
+.stats{
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url(bg.jpg);
+    background-size: cover;
+}
+
+.black{
+     font-family: 'Gilroy',sans-serif;
+    color: gold;
+}
+
+.font{
+}
